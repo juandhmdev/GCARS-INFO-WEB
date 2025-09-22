@@ -21,7 +21,7 @@ La web comercial sirve como **landing page** para atraer clientes, explicar el f
 ## 🖼️ Capturas de la Web
 
 ### 🏠 Home
-![Home](home.jpg)
+![Home](assets/home.jpg)
 
 ### 📖 Cómo funciona
 ![Cómo funciona](comofunciona.jpg)
