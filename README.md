@@ -1,7 +1,7 @@
 # GCARS-INFO-WEB
 # 🌐 GCARS – Página Comercial
 
-![Logo](logo.jpg)
+![Logo](assets/logo.jpg)
 
 GCARS es un portal de compraventa de coches que conecta concesionarios y particulares.  
 Este repositorio contiene la **página comercial** de la aplicación móvil, diseñada para presentar los servicios de la plataforma y facilitar la descarga de la app en **Android** e **iOS**.
@@ -24,28 +24,28 @@ La web comercial sirve como **landing page** para atraer clientes, explicar el f
 ![Home](assets/home.jpg)
 
 ### 📖 Cómo funciona
-![Cómo funciona](comofunciona.jpg)
+![Cómo funciona](assets/comofunciona.jpg)
 
 ### ⭐ Reseñas
-![Reseñas](reseñas.jpg)
+![Reseñas](assets/reseñas.jpg)
 
 ### 📱 Vista responsive
-![Drawer](responsivedrawer.jpg)
-![Home responsive](responsivehome.jpg)
+![Drawer](assets/responsivedrawer.jpg)
+![Home responsive](assets/responsivehome.jpg)
 
 ### 📂 Secciones
-![Sección 1](secction1.jpg)
-![Sección 2](secction2.jpg)
-![Sección 3](secction3.jpg)
-![Sección 4](secction4.jpg)
-![Sección 5](secction5.jpg)
-![Sección 6](secction6.jpg)
+![Sección 1](assets/secction1.jpg)
+![Sección 2](assets/secction2.jpg)
+![Sección 3](assets/secction3.jpg)
+![Sección 4](assets/secction4.jpg)
+![Sección 5](assets/secction5.jpg)
+![Sección 6](assets/secction6.jpg)
 
 ### 📥 Descarga
-![Download](download.jpg)
+![Download](assets/download.jpg)
 
 ### ⚡ Footer
-![Footer](footer.jpg)
+![Footer](assets/footer.jpg)
 
 ---
 
